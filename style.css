@@ -1,0 +1,60 @@
+.firstnav-bg{
+    background-color: rgb(255,138,0);
+    
+}
+
+.main-nav{
+    background-color:rgb(104,64,0);
+    border-bottom:3px solid rgb(255,138,0);
+}
+.main-nav ul li a{
+    color:aliceblue;
+    }
+    .firstnav-bg a{
+color:aliceblue;
+}
+.p-aboutus{
+    line-height:33px;
+    font-style:unset;
+    font-size: larger;
+    text-align:justify;
+    
+}
+  .u-line{
+    width:40%;
+display: flex;  
+}
+    
+.one{
+    width:50%;
+    height: 5px;
+    color:aqua;
+    background-color:rgb(238, 161, 37);
+}
+.two{
+    width:50%;
+    height: 5px;
+    background-color:rgb(12, 3, 95);
+}
+
+.footer-bg{
+    background-color:rgb(104,64,0);
+
+}
+.footer-bg ul li{
+    list-style-type: none;
+}
+.review-user{
+    width:12em;
+    border-radius: 20%;
+}
+/* .slider-wrap{
+    position:relative;
+}
+.slider-main{
+    position:absolute;
+}  */
+/* .item{
+    width:200px;
+    display: inline-block;
+} */
